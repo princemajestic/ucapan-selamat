@@ -12,6 +12,6 @@ nama = str.text_input("Masukkan nama Anda:", placeholder="Ketik nama di sini..."
 # Ketika tombol diklik atau setelah mengetik nama
 if nama:
     str.markdown("---")
-    str.success(f"### Halo {nama}, tetap semangat ya praktikumnya!")
+    str.success(f"### Halo {nama}, this is from me Nizamm tetap semangat ya praktikumnya zul!")
     str.info("💡 **Ingat:** Jangan menyerah, hehe!")
     str.markdown("---")
